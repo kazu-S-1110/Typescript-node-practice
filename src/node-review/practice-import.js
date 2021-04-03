@@ -1,3 +1,3 @@
-const practice = require('./practice-export');
+import practice from './practice-export';
 
 console.log(practice);
